@@ -1,0 +1,2 @@
+# NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING
+The EDA and clustering project
